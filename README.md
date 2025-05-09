@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=BongJune's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Ina's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45)
 
 <br>
-<div align='center'>💻깊고 넓게 공부하는 개발자 김봉준입니다.</div>
+<div align='center'>"기술"을 통해 안전하고, 편리한 디지털 세상을 만들어 나가고 싶은 개발자.</div>
 <br>
-<div align='center'> ✉Email : <a href="mailto:nocdu112@naver.com">nocdu112@naver.com</a></div>
-<div align='center'> 🔗Notion : <a href="https://abounding-clownfish-456.notion.site/9589212dfdac4f8ea36e97dcd79f44d3">노션링크</a></div>
-<div align='center'> 🌐Blog : <a href="https://nocdu112.tistory.com/">블로그</a></div>
+<div align='center'> ✉Email : <a href="mailto:sson31221@gmail.com">sson31221@gmail.com</a></div>
+<!-- <div align='center'> 🔗Notion : <a href="https://abounding-clownfish-456.notion.site/9589212dfdac4f8ea36e97dcd79f44d3">노션링크</a></div>
+<div align='center'> 🌐Blog : <a href="https://nocdu112.tistory.com/">블로그</a></div> -->
 <br>
 <br>
 <br>
@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=Jetpack%20Compose&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"/></a>&nbsp
+<!--   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=Jetpack%20Compose&logoColor=white"/></a>&nbsp 
   
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/></a>&nbsp 
-</p>
+</p> -->
 <br>
 <!--
 <h3 align="center">🌈 Follow Me 🌈</h3>
